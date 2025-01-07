@@ -1,5 +1,5 @@
 **********************************
-Author:   Evan Dietrich
+Author:   Nilesh Mahale
 Course:   Comp 131 - Intro AI
 Prof:     Santini
 
