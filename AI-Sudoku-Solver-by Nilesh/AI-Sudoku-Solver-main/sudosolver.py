@@ -1,18 +1,3 @@
-################################################################################
-# Author:   Evan Dietrich
-# Course:   Comp 131 - Intro AI
-# Prof:     Santini
-#
-# Assign:   Constraint Satisfaction Problems
-# Date:     10/28/2020
-# File:     sudosolver.py
-################################################################################
-
-################################################################################
-#       IMPORTS + INITIALS FOR TESTING
-################################
-# ################################################
-
 FILENAME = "easypuzzle.txt"     # Alternatively, "easypuzzle.txt"
 ALGORITHM = "BACKTRACKING"      # Alternatively, BACKJUMPING
 import sys
