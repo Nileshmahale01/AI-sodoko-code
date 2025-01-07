@@ -1,10 +1,7 @@
 **********************************
 Author:   Nilesh Mahale
-Course:   Comp 131 - Intro AI
-Prof:     Santini
-
 Assign:   Constraint Satisfaction Problems
-Date:     10/28/2020
+Date:     07/01/2025
 File:     README.md
 **********************************
 
